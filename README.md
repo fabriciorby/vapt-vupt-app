@@ -1,4 +1,4 @@
-# bolsa-vapt-vupt
+# vapt-vupt-frontend
 
 ## Project setup
 ```
